@@ -19,3 +19,5 @@ pnpm dev
 bun dev
 
 jajaja
+
+Este proyecto es parte del curso de programación del SENA.
