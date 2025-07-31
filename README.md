@@ -19,3 +19,4 @@ pnpm dev
 bun dev
 
 jajaja
+La luna es Plateada
